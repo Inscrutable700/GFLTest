@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Office goods">d846c65fdb01220073d4f7fdbf961931</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-10 15:02:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f0760a5fdb01220073d4f7fdbf96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office goods.catalog_office_goods</sys_name>
+        <sys_package display_value="GFL test" source="x_69070_gfl_test">f5046993db01220073d4f7fdbf96190e</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_office_goods">f8764a1fdb01220073d4f7fdbf9619dd</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GFL test">f5046993db01220073d4f7fdbf96190e</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_f0760a5fdb01220073d4f7fdbf96191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-10 15:02:00</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

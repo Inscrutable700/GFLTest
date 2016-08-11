@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Pen">3cb58a1fdb01220073d4f7fdbf961921</sc_cat_item>
+        <sc_catalog display_value="Office goods">d846c65fdb01220073d4f7fdbf961931</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-10 15:06:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dc97861fdb01220073d4f7fdbf961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office goods.Pen</sys_name>
+        <sys_package display_value="GFL test" source="x_69070_gfl_test">f5046993db01220073d4f7fdbf96190e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GFL test">f5046993db01220073d4f7fdbf96190e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dc97861fdb01220073d4f7fdbf961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-10 15:06:54</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

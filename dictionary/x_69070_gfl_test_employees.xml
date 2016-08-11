@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Employees" max_length="40" name="x_69070_gfl_test_employees" type="collection">
+        <element dependent="name" dependent_on_field="name" label="Name" max_length="100" name="name" type="string" use_dependent_field="true"/>
+    </element>
+</database>

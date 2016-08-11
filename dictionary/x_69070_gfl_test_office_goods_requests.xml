@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Office Goods Requests" max_length="40" name="x_69070_gfl_test_office_goods_requests" type="collection">
+        <element label="Cost" mandatory="true" max_length="40" name="cost" type="price"/>
+        <element choice="1" dependent="department" dependent_on_field="department" label="Department" mandatory="true" max_length="32" name="department" reference="x_69070_gfl_test_departments" reference_key="Title" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+        <element label="Title" max_length="255" name="title" type="string_full_utf8"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+    </element>
+</database>
