@@ -4,62 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cost</element>
-            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2005711bdb01220073d4f7fdbf961972</list_id>
+            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">287e2f7bdb49220073d4f7fdbf9619d3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-10 13:45:48</sys_created_on>
-            <sys_id>6405711bdb01220073d4f7fdbf961972</sys_id>
+            <sys_created_on>2016-08-12 11:53:20</sys_created_on>
+            <sys_id>e47e63bbdb49220073d4f7fdbf961901</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-10 13:45:48</sys_updated_on>
+            <sys_updated_on>2016-08-12 11:53:20</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>department</element>
-            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2005711bdb01220073d4f7fdbf961972</list_id>
+            <element>description</element>
+            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">287e2f7bdb49220073d4f7fdbf9619d3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-10 13:45:48</sys_created_on>
-            <sys_id>e405711bdb01220073d4f7fdbf961972</sys_id>
+            <sys_created_on>2016-08-12 11:53:20</sys_created_on>
+            <sys_id>687e63bbdb49220073d4f7fdbf961901</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-10 13:45:48</sys_updated_on>
+            <sys_updated_on>2016-08-12 11:53:20</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>description</element>
-            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2005711bdb01220073d4f7fdbf961972</list_id>
+            <element>title</element>
+            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">287e2f7bdb49220073d4f7fdbf9619d3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-10 13:45:48</sys_created_on>
-            <sys_id>6805711bdb01220073d4f7fdbf961972</sys_id>
+            <sys_created_on>2016-08-12 11:53:20</sys_created_on>
+            <sys_id>e87e63bbdb49220073d4f7fdbf961901</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-10 13:45:48</sys_updated_on>
+            <sys_updated_on>2016-08-12 11:53:20</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>title</element>
-            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2005711bdb01220073d4f7fdbf961972</list_id>
+            <element>department.title</element>
+            <list_id display_value="x_69070_gfl_test_office_goods_requests" element="NULL" name="x_69070_gfl_test_office_goods_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">287e2f7bdb49220073d4f7fdbf9619d3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-10 13:45:48</sys_created_on>
-            <sys_id>e805711bdb01220073d4f7fdbf961972</sys_id>
+            <sys_created_on>2016-08-12 11:53:20</sys_created_on>
+            <sys_id>6c7e63bbdb49220073d4f7fdbf961901</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-10 13:45:48</sys_updated_on>
+            <sys_updated_on>2016-08-12 11:53:20</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -73,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-10 13:45:48</sys_created_on>
+            <sys_created_on>2016-08-12 11:53:20</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2005711bdb01220073d4f7fdbf961972</sys_id>
+            <sys_id>287e2f7bdb49220073d4f7fdbf9619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_69070_gfl_test_office_goods_requests</sys_name>
             <sys_package display_value="GFL test" source="x_69070_gfl_test">f5046993db01220073d4f7fdbf96190e</sys_package>
@@ -86,7 +86,7 @@
             <sys_scope display_value="GFL test">f5046993db01220073d4f7fdbf96190e</sys_scope>
             <sys_update_name>sys_ui_list_x_69070_gfl_test_office_goods_requests_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-10 13:45:48</sys_updated_on>
+            <sys_updated_on>2016-08-12 11:53:20</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

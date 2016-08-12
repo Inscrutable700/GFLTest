@@ -6,7 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <collection>x_69070_gfl_test_office_goods_requests</collection>
+        <collection>x_69070_gfl_test_department_staff</collection>
         <condition/>
         <content_type>text/html</content_type>
         <description/>
@@ -32,7 +32,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields/>
         <recipient_groups/>
-        <recipient_users>6816f79cc0a8016401c5a33be04be441,inscrutable700@gmail.com</recipient_users>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441,inscrutable700@gmail.com,c05bbae3db45220073d4f7fdbf9619d2</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -46,7 +46,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e78c06dfdb01220073d4f7fdbf961978</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Test</sys_name>
         <sys_overrides/>
         <sys_package display_value="GFL test" source="x_69070_gfl_test">f5046993db01220073d4f7fdbf96190e</sys_package>
@@ -55,7 +55,7 @@
         <sys_scope display_value="GFL test">f5046993db01220073d4f7fdbf96190e</sys_scope>
         <sys_update_name>sysevent_email_action_e78c06dfdb01220073d4f7fdbf961978</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-08-10 15:43:17</sys_updated_on>
+        <sys_updated_on>2016-08-11 14:50:38</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="new office goods request">9d7bce9fdb01220073d4f7fdbf9619b1</template>
         <type>email</type>
