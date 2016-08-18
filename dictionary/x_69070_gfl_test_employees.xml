@@ -2,5 +2,6 @@
 <database>
     <element label="Employees" max_length="40" name="x_69070_gfl_test_employees" type="collection">
         <element dependent="name" dependent_on_field="name" label="Name" max_length="100" name="name" type="string" use_dependent_field="true"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
     </element>
 </database>
